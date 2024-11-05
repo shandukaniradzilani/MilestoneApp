@@ -7,7 +7,7 @@ const ContactScreen: React.FC = () => {
     <View style={styles.container}>
       <Text style={styles.title}>Contact Us</Text>
       <Text>Phone: +27 123 4567</Text>
-      <Text>Email: info@empoweringthenation.co.za</Text>
+      <Text>Email: radzilanis07@gmail.com</Text>
       <Text>Address: 123 Skill Street, Johannesburg</Text>
     </View>
   );
