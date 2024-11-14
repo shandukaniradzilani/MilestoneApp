@@ -11,8 +11,10 @@ Consistent design and functionality with the Empowering the Nation website, allo
 Icon-based navigation for an intuitive user experience.
 
 ## Detailed Course Information
-### Six-Month Courses: Each course has a dedicated page displaying comprehensive details and fees.
-### Six-Week Courses: Each short course also has a dedicated page with details and fees.
+### Six-Month Courses: 
+Each course has a dedicated page displaying comprehensive details and fees.
+### Six-Week Courses:
+Each short course also has a dedicated page with details and fees.
 
 ## Fee Calculator and Registration Form
 Users can select multiple courses from a checklist and calculate the total fee, which includes discounts (if applicable) and VAT (15%).
